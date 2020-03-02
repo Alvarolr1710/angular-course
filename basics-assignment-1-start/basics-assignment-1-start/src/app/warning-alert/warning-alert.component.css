@@ -1,0 +1,13 @@
+div {
+  padding: 5px;
+  margin-top: 5px;
+  color: black;
+  background-color: indianred;
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  border: 1px solid red;
+
+}
